@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name lib1)(type KiCad)(uri "S:/kicad/bulb-current-sensor/components lib")(options "")(descr ""))
+)
